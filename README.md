@@ -24,4 +24,4 @@ This launches a local Surfnet validator and deploys your program.
 `anchor test --skip-local-validator`
 This will execute the tests in `tests/anchor-vault-q4-25.ts`, covering initialize, deposit, withdraw, and close scenarios.
 
-For standard local testing without Surfpool, just run `anchor test`.
+For standard local testing without Surfpool, just run `anchor test`.# anchor-vault
